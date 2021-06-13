@@ -34,6 +34,6 @@ INSERT INTO fxgn_product_sales VALUES (14, 2019, 'Product B', 9000, 'Admin', loc
 INSERT INTO fxgn_product_sales VALUES (15, 2019, 'Product C', 32000, 'Admin', localtimestamp);
 INSERT INTO fxgn_product_sales VALUES (16, 2019, 'Product D', 28000, 'Admin', localtimestamp);
 
-----------------------------------------------------------------  
+---------------------------------------------------------------- 
 
 COMMIT;
