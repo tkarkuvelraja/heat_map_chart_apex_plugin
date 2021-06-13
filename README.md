@@ -46,7 +46,7 @@ Plugin will be listed under plug-ins bucket after successful installation.
               
            30000 heat_value
               
-      FROM oracle_table
+      FROM dual
               
      WHERE 1 = 1;
         
