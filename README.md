@@ -71,6 +71,10 @@ Plugin will be listed under plug-ins bucket after successful installation.
      
              sale_year ASC
  
+ **Step 6:** Fill required attributes
+ 
+ ![image](https://user-images.githubusercontent.com/85283603/121812412-bcc37500-cc78-11eb-8190-6e5cd4a04c5d.png)
+ 
  **Output:** Then you output would display like this,
 
 ![image](https://user-images.githubusercontent.com/85283603/121812229-27c07c00-cc78-11eb-8704-de2c1eccfe0d.png)
