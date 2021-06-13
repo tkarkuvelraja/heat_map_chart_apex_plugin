@@ -25,7 +25,7 @@
     "apex" : {
       "versions" : ["20.1.0.00.13", "20.2.0.00.20", "21.1.0"],
       "plugin" : {
-        "internalName" : "ORCLKING.HEATMAP.REPORT",
+        "internalName" : "ORCLKING.HEAT.MAP.CHART",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=113036:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:37",
         "previewImage" : "https://raw.githubusercontent.com/tkarkuvelraja/heat_map_chart_apex_plugin/master/HeatMapChartPreview.gif"
